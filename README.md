@@ -1,4 +1,5 @@
 Important :-  Replace the places with your email id's and API's respectively ! 
+You might want to subscribe for a pack / get a free trial for the google maps ( api ) 
 
 # OutletFinder
 
