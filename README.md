@@ -13,6 +13,10 @@
 - and they're stored into lists matched by indices.
 <img src="https://github.com/reekithak/OutletFinder/blob/master/images/outlet2.JPG">
 
+### Covering the area?
+- The next thing we do is fix a particular radius and trying to cover the entire area within our reach.
+- We confirm the output by constructing a scatter map with the current input radius to see manually if it covers everything.
+<img src="https://github.com/reekithak/OutletFinder/blob/master/images/outlet3.JPG">
 The Program is given a few end coordinates of a specific place. 
 The algorithm calculates rest coordinates and covers the entire region around to create regional Clusters. 
 The purpose is to use google API and find nearby stores ( useful in cases of a pandemic ) since it'll be pretty hard and dumb to go around and search for every single shop. 
