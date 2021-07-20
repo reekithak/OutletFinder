@@ -1,5 +1,3 @@
-Important :-  Replace the places with your email id's and API's respectively ! 
-You might want to subscribe for a pack / get a free trial for the google maps ( api ) 
 
 # OutletFinder
 
@@ -9,3 +7,7 @@ The purpose is to use google API and find nearby stores ( useful in cases of a p
 A program just to find out the nearby outlets and sort them out according to the needs
 
 ( Work done as a part of internship at PI ) 
+
+
+## Important Note:- 
+- Replace the places with your email id's and API's respectively, You might want to subscribe for a pack / get a free trial for the google maps ( api ) 
