@@ -17,13 +17,22 @@
 - The next thing we do is fix a particular radius and trying to cover the entire area within our reach.
 - We confirm the output by constructing a scatter map with the current input radius to see manually if it covers everything.
 <img src="https://github.com/reekithak/OutletFinder/blob/master/images/outlet3.JPG">
-The Program is given a few end coordinates of a specific place. 
-The algorithm calculates rest coordinates and covers the entire region around to create regional Clusters. 
-The purpose is to use google API and find nearby stores ( useful in cases of a pandemic ) since it'll be pretty hard and dumb to go around and search for every single shop. 
-A program just to find out the nearby outlets and sort them out according to the needs
 
-( Work done as a part of internship at PI ) 
+### How are they Fetched?
+- With the help of google maps api, we identify these outlets with the specific keywords that we pass and form a dataframe with our output.
+<img src="https://github.com/reekithak/OutletFinder/blob/master/images/outlet4.JPG">
+
+### Final output?
+- The final output is a Dataframe with the respective outlets, with their current active states, this can be done statically or dynamically as per the modification of the script.
+<img src="https://github.com/reekithak/OutletFinder/blob/master/images/outlet5.JPG">
+
+### Purpose?
+- The purpose is to use google API and find nearby stores ( useful in cases of a pandemic ) since it'll be pretty hard and dumb to go around and search for every single shop. 
+- A program just to find out the nearby outlets and sort them out according to the needs
+
+
 
 
 ## Important Note:- 
 - Replace the places with your email id's and API's respectively, You might want to subscribe for a pack / get a free trial for the google maps ( api ) 
+- ( Work done as a part of internship at [PI](https://www.positiveintegers.com/) ) 
