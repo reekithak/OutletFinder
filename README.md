@@ -8,7 +8,10 @@
 - The lines in "violet" are the ones we pass in (end coordinates), which are later connected and made into lines, which are later processed.
 <img src="https://github.com/reekithak/OutletFinder/blob/master/images/outlet%201.JPG">
 
-
+### The Final Set of Coordinates ?
+- After the initial Processing, the new set of coordinates are automatically calculated by the program, and taking it into a level of 4-5 within the new lines, hence by covering a huge area in space.
+- and they're stored into lists matched by indices.
+<img src="https://github.com/reekithak/OutletFinder/blob/master/images/outlet2.JPG">
 
 The Program is given a few end coordinates of a specific place. 
 The algorithm calculates rest coordinates and covers the entire region around to create regional Clusters. 
